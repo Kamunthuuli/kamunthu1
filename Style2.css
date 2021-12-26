@@ -1,0 +1,11 @@
+tbody {
+    background-color: yellow;
+color: white;
+text-align: center;
+}
+
+th {
+    background-color: red;
+    text-align: center;
+    color: yellow;
+}
